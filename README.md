@@ -1,4 +1,4 @@
-Task 1: Create and run a Linux VM
+.Task 1: Create and run a Linux VM
 README for task 1: 
 what the host is and what the guest is?:  хост это мой компьютер, а гость это  виртуал бокс
 from where you are connecting to where? : я подключаюсь с хоста( своего пк) через power shell к серверу ubuntu который в virtual box, вот айпи к которму я подключаюсь : 192.168.0.104
